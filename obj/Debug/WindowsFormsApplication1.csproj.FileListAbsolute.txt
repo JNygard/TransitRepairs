@@ -1,0 +1,16 @@
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainGame.resources
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Transit.resources
+C:\Users\Asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Asus\documents\visual studio 2015\Projects\C#DEMOS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
